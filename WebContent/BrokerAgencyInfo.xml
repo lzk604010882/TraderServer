@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<system>
+	<broker-agency>
+		<url>http://localhost:8080/BrokerServer/services</url>
+		<brokerID-low>1</brokerID-low>
+		<brokerID-up>10000</brokerID-up>
+	</broker-agency>
+</system>
