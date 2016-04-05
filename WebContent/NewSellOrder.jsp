@@ -23,7 +23,6 @@
 				<li><a href="Login.jsp">HOME</a></li>
 				<li><a href="NewBuyOrder.jsp">New Buy Order</a></li>
 				<li class="pure-menu-selected"><a href="NewSellOrder.jsp">New Sell Order</a></li>
-				<li><a href="GetMarketDepthServlet?commodityName=gold">MarketDepth </a></li>
 				<li><a href="GetHistoryOrdersServlet">History Orders</a></li>
 				<li><a href="GetBestOrdersServlet">Fill Orders</a></li>
 				<li><a>Broker Information</a></li>
